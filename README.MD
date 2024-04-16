@@ -54,4 +54,6 @@ It is not possible to end a subscription before the ending date, and it is also 
 Exercises
 
 1. Draw the context diagram of the MovieMail system
-1. Draw the use case diagram of the MovieMail system  
+2. Draw the ER diagram of the MovieMail system
+
+![alt text](screenshots/UML.jpg)
